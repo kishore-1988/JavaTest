@@ -5,4 +5,4 @@ git clone poject url
 git add .
 git status
 git commit -m "some message"
-git push origin master
+git push -u origin master
